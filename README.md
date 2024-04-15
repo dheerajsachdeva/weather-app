@@ -12,27 +12,21 @@ API: OpenWeatherMap API for weather data
 Styling: CSS for basic styling
 
 Setup Instructions
-Clone the repository:
+Clone the repository:https://github.com/dheerajsachdeva/weather-app.git
 
-bash
 Copy code
-git clone <repository-url>
-Navigate to the project directory:
+git clone [<repository-url>](https://github.com/dheerajsachdeva/weather-app.git)
 
-bash
-Copy code
+Navigate to the project directory: https://github.com/dheerajsachdeva/weather-app.git
+
 cd weather-app
-Install dependencies:
+Install dependencies: React with Typescript, Axios
 
-bash
-Copy code
-npm install
+
+npm install 
 Obtain an API key from OpenWeatherMap and replace the placeholder API key in the code with your own.
 
 Start the development server:
-
-bash
-Copy code
 npm start
 Open your web browser and visit http://localhost:3000 to view the app.
 
@@ -40,6 +34,7 @@ Usage
 Enter the name of the city you want to check the weather for in the search bar.
 Press Enter or click the search button.
 The app will display the current weather conditions for the specified city.
+
 Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you encounter any bugs or would like to suggest improvements.
 
